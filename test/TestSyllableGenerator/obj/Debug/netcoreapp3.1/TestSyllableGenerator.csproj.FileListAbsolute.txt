@@ -1,0 +1,14 @@
+D:\Projects\DesktopApps\SyllableGenerator\TestSyllableGenerator\obj\Debug\netcoreapp3.1\TestSyllableGenerator.csprojAssemblyReference.cache
+D:\Projects\DesktopApps\SyllableGenerator\TestSyllableGenerator\obj\Debug\netcoreapp3.1\TestSyllableGenerator.AssemblyInfoInputs.cache
+D:\Projects\DesktopApps\SyllableGenerator\TestSyllableGenerator\obj\Debug\netcoreapp3.1\TestSyllableGenerator.AssemblyInfo.cs
+D:\Projects\DesktopApps\SyllableGenerator\TestSyllableGenerator\bin\Debug\netcoreapp3.1\TestSyllableGenerator.exe
+D:\Projects\DesktopApps\SyllableGenerator\TestSyllableGenerator\bin\Debug\netcoreapp3.1\TestSyllableGenerator.deps.json
+D:\Projects\DesktopApps\SyllableGenerator\TestSyllableGenerator\bin\Debug\netcoreapp3.1\TestSyllableGenerator.runtimeconfig.json
+D:\Projects\DesktopApps\SyllableGenerator\TestSyllableGenerator\bin\Debug\netcoreapp3.1\TestSyllableGenerator.runtimeconfig.dev.json
+D:\Projects\DesktopApps\SyllableGenerator\TestSyllableGenerator\bin\Debug\netcoreapp3.1\TestSyllableGenerator.dll
+D:\Projects\DesktopApps\SyllableGenerator\TestSyllableGenerator\bin\Debug\netcoreapp3.1\TestSyllableGenerator.pdb
+D:\Projects\DesktopApps\SyllableGenerator\TestSyllableGenerator\bin\Debug\netcoreapp3.1\SyllableGenerator.dll
+D:\Projects\DesktopApps\SyllableGenerator\TestSyllableGenerator\bin\Debug\netcoreapp3.1\SyllableGenerator.pdb
+D:\Projects\DesktopApps\SyllableGenerator\TestSyllableGenerator\obj\Debug\netcoreapp3.1\TestSyllableGenerator.csproj.CopyComplete
+D:\Projects\DesktopApps\SyllableGenerator\TestSyllableGenerator\obj\Debug\netcoreapp3.1\TestSyllableGenerator.dll
+D:\Projects\DesktopApps\SyllableGenerator\TestSyllableGenerator\obj\Debug\netcoreapp3.1\TestSyllableGenerator.pdb

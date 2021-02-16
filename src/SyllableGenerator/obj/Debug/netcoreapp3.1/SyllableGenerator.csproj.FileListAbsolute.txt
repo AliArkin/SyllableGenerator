@@ -1,0 +1,8 @@
+D:\Projects\DesktopApps\SyllableGenerator\SyllableGenerator\bin\Debug\netcoreapp3.1\SyllableGenerator.deps.json
+D:\Projects\DesktopApps\SyllableGenerator\SyllableGenerator\bin\Debug\netcoreapp3.1\SyllableGenerator.dll
+D:\Projects\DesktopApps\SyllableGenerator\SyllableGenerator\bin\Debug\netcoreapp3.1\SyllableGenerator.pdb
+D:\Projects\DesktopApps\SyllableGenerator\SyllableGenerator\obj\Debug\netcoreapp3.1\SyllableGenerator.csprojAssemblyReference.cache
+D:\Projects\DesktopApps\SyllableGenerator\SyllableGenerator\obj\Debug\netcoreapp3.1\SyllableGenerator.AssemblyInfoInputs.cache
+D:\Projects\DesktopApps\SyllableGenerator\SyllableGenerator\obj\Debug\netcoreapp3.1\SyllableGenerator.AssemblyInfo.cs
+D:\Projects\DesktopApps\SyllableGenerator\SyllableGenerator\obj\Debug\netcoreapp3.1\SyllableGenerator.dll
+D:\Projects\DesktopApps\SyllableGenerator\SyllableGenerator\obj\Debug\netcoreapp3.1\SyllableGenerator.pdb

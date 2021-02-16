@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "TestSyllableGenerator/1.0.0": {
+        "dependencies": {
+          "SyllableGenerator": "1.0.0"
+        },
+        "runtime": {
+          "TestSyllableGenerator.dll": {}
+        }
+      },
+      "SyllableGenerator/1.0.0": {
+        "runtime": {
+          "SyllableGenerator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TestSyllableGenerator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SyllableGenerator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

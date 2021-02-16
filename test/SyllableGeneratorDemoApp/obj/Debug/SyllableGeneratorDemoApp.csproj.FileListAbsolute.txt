@@ -1,0 +1,9 @@
+D:\Projects\DesktopApps\SyllableGenerator\SyllableGeneratorDemoApp\bin\Debug\SyllableGeneratorDemoApp.exe.config
+D:\Projects\DesktopApps\SyllableGenerator\SyllableGeneratorDemoApp\bin\Debug\SyllableGeneratorDemoApp.exe
+D:\Projects\DesktopApps\SyllableGenerator\SyllableGeneratorDemoApp\bin\Debug\SyllableGeneratorDemoApp.pdb
+D:\Projects\DesktopApps\SyllableGenerator\SyllableGeneratorDemoApp\obj\Debug\SyllableGeneratorDemoApp.csprojAssemblyReference.cache
+D:\Projects\DesktopApps\SyllableGenerator\SyllableGeneratorDemoApp\obj\Debug\SyllableGeneratorDemoApp.frmMain.resources
+D:\Projects\DesktopApps\SyllableGenerator\SyllableGeneratorDemoApp\obj\Debug\SyllableGeneratorDemoApp.Properties.Resources.resources
+D:\Projects\DesktopApps\SyllableGenerator\SyllableGeneratorDemoApp\obj\Debug\SyllableGeneratorDemoApp.csproj.GenerateResource.cache
+D:\Projects\DesktopApps\SyllableGenerator\SyllableGeneratorDemoApp\obj\Debug\SyllableGeneratorDemoApp.exe
+D:\Projects\DesktopApps\SyllableGenerator\SyllableGeneratorDemoApp\obj\Debug\SyllableGeneratorDemoApp.pdb
