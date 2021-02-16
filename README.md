@@ -9,4 +9,4 @@ Syllable Generator for Uyghur Language
     txtResult.Text = string.Join(Environment.NewLine, result.ToArray<string>());
 ## Demo
 
- ![Demo](/doc/AppWindow.jpg)
+ ![Demo](https://github.com/AliArkin/SyllableGenerator/blob/main/doc/AppWindow.JPG)
