@@ -7,3 +7,6 @@ Syllable Generator for Uyghur Language
     Generator gen = new Generator();
     var result = gen.Generate(SyllableType.CVC);
     txtResult.Text = string.Join(Environment.NewLine, result.ToArray<string>());
+##Demo
+
+ ![Demo](/doc/AppWindow.jpg)
